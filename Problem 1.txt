@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a, b, x;
+    
+  
+    cin >> a >> b;
+    // sum of two numbers in stored in variable sumOfTwoNumbers
+    x = a + b;
+    // Prints sum 
+    //cout << firstNumber << " + " <<  secondNumber << " = " << sumOfTwoNumbers;  
+    cout << "X = " << x <<endl;
+    return 0;
+}
